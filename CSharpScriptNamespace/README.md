@@ -14,17 +14,17 @@ Out of the box, this Editor script works with the following configuration:
 
 Some examples:
 
-PATH: Assets/SCRIPTS/Runtime/Logic/GameManager.cs
+PATH: Assets/SCRIPTS/Runtime/Logic/GameManager.cs  
 NAMESPACE: {RootNamespace}.Runtime.Logic
 
-PATH: Assets/SCRIPTS/Player/InputProcessing/TouchInputProcessor.cs
+PATH: Assets/SCRIPTS/Player/InputProcessing/TouchInputProcessor.cs  
 NAMESPACE: {RootNamespace}.Player.InputProcessing
 
 ---
 
 This script also ignores sub-folders named "Script":
 
-PATH: Assets/SCRIPTS/Runtime/Scripts/Logic/Scripts/GameManager.cs
+PATH: Assets/SCRIPTS/Runtime/Scripts/Logic/Scripts/GameManager.cs  
 NAMESPACE: {RootNamespace}.Runtime.Logic
 
 ---
