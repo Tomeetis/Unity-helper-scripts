@@ -1,8 +1,8 @@
-﻿using System.IO;
+using System.IO;
 using UnityEditor;
 using UnityEngine;
 
-namespace SlingshotBob.Editor.Assets
+namespace MyGame.Editor.Assets
 {
     public sealed class ScriptAssetKeywordsReplacer : UnityEditor.AssetModificationProcessor
     {
